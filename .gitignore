@@ -3,3 +3,10 @@ __pycache__/
 
 *.so
 steps.md
+
+.env
+
+.ipynb_checkpoints/
+data/
+fine-tuned-llama3-fin-pred-model
+results_20240702-22-31
