@@ -9,13 +9,7 @@ Create steps for this and also create three systems one simple fine tune, second
 I was making notes throughout the whole process of developing financial predictions with LLM: https://fedserfey.notion.site/Diary-6b2d2605863040aca71840616fd8c27b
 
 
-### Google Colab
+### Kaggle
 
-Google Colab provides a nice space for using their computational power to train LLM models. I did all the work there and just downloaded the notebooks in this repo.
-
-#### The notebooks:
-
-* [LLM-fine-tuning](https://drive.google.com/file/d/1CADFhO6SbFqR6rlvJPFUfyZPgl4c4h35/view?usp=sharing) \
-I had to use Kaggle to fine-tune the model: [fine-tuned-llama3-fin-pred-model](https://www.kaggle.com/models/serhey/fine-tuned-llama3-fin-pred-model/)
-
+Kaggle provides a nice space for using their computational power to train LLM models. I did all the work there and just downloaded the notebooks in this repo.
 
